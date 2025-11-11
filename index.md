@@ -2,26 +2,22 @@
 layout: homepage
 ---
 
-## 🧩 Tên Dự Án
-**QuickSwap**
+## 🧩 **QuickSwap**
 
 ## 📝 Mô Tả Vấn Đề
 Trong môi trường học tập, sinh viên thường gặp khó khăn khi cần mượn nhanh các vật dụng học tập như máy tính, máy tính cầm tay, sách, hoặc dụng cụ thí nghiệm. Việc trao đổi thủ công mất thời gian và thiếu minh bạch.  
 **QuickSwap** ra đời nhằm tạo ra một nền tảng trực tuyến giúp sinh viên **mượn – cho mượn đồ dùng học tập** dễ dàng, nhanh chóng và an toàn.
 
 ## ⚙️ Tính Năng Chính
-- Đăng bài cho mượn hoặc mượn đồ học tập.  
-- Tìm kiếm vật dụng theo tên, loại hoặc khu vực.  
-- Hệ thống đánh giá uy tín người dùng sau mỗi giao dịch.  
-- Quản lý danh sách đồ đã mượn và đã cho mượn.  
-- Tích hợp thông báo nhắc trả đồ.  
-- Hỗ trợ đăng nhập bằng tài khoản sinh viên (SSO).
-- 
+- 📦 Đăng bài cho mượn hoặc mượn đồ học tập.  
+- 🔍 Tìm kiếm vật dụng theo tên, loại hoặc khu vực.  
+- ⭐ Hệ thống đánh giá uy tín người dùng sau mỗi giao dịch.  
+- 🧾 Quản lý danh sách đồ đã mượn và đã cho mượn.  
+- 🔔 **Thông báo nhắc trả đồ** trước hạn.
 ## 💻 Công Nghệ Sử Dụng
-- **Frontend:** HTML, CSS, JavaScript (React)  
-- **Backend:** Python (Flask)  
-- **Database:** SQLite / PostgreSQL  
-- **Triển khai:** GitHub Pages (frontend) + Flask API (backend)
+- **Frontend:** React Native + Expo  
+- **Backend:** Java Spring Boot  
+- **Database:** MySQL 
 
 ## 👥 Thành Viên Nhóm
 {% raw %}
@@ -34,7 +30,10 @@ Trong môi trường học tập, sinh viên thường gặp khó khăn khi cầ
 {% endraw %}
 
 ## 🔗 Liên Kết Dự Án
-- **GitHub Repository:** [https://github.com/your-group/quickswap](https://github.com/your-group/quickswap)
+- **GitHub Repository:** [https://github.com/L01-BK/QuickSwap-](https://github.com/L01-BK/QuickSwap-)
 - **Trang GitHub Pages:** [https://your-group.github.io/quickswap/](https://your-group.github.io/quickswap/)
+---
 
+✨ *QuickSwap – Nơi sinh viên kết nối, chia sẻ và giúp đỡ nhau trong học tập.*  
+📲 *Mượn nhanh, trả gọn – học tập hiệu quả cùng QuickSwap!*
 ---
